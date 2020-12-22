@@ -1,0 +1,894 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .menu ul li a {
+    padding: 4px 0px !important;
+    /* padding: 28px 0; */
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .nav_t {
+    /* margin-left: 350px; */
+    padding: 0.25rem 0.75rem;
+    /* margin-top: 30px; */
+  }
+  .search {
+    border: 1px solid #dadada;
+    /* font-size: 22px; */
+  }
+  .slider {
+    min-height: 530px;
+    padding: 60px 0 0 0;
+    width: 100%;
+  }
+  .si_text h1 {
+    font-size: 27px;
+    line-height: 40px;
+    margin-top: 20px;
+  }
+  .si_text p {
+    font-size: 14px;
+    letter-spacing: 1px;
+    word-spacing: 0;
+    margin-bottom: 40px;
+  }
+  .col_change_1 {
+    width: 65.333333%;
+  }
+  .cc_p {
+    left: -25px;
+  }
+  .cc_n {
+    right: -25px;
+  }
+  .cid {
+    bottom: -150px;
+  }
+  .btn_yellow {
+    height: 40px;
+    width: 140px;
+    font-size: 14px;
+  }
+  .cid li {
+    width: 25px;
+    height: 3px;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  .cc_p,
+  .cc_n {
+    top: 45px;
+  }
+  /* slider end */
+  /* service start */
+  .s_text h1 {
+    font-size: 27px;
+    margin-bottom: 24px;
+  }
+  .s_text p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    line-height: 26px;
+    word-spacing: 0px;
+    letter-spacing: 1px;
+  }
+  .main_service {
+    padding-top: 60px;
+  }
+  .s_text {
+    padding-bottom: 35px;
+  }
+  .service_1 {
+    margin: 0 auto;
+    margin-bottom: 35px;
+  }
+  /* Our service start */
+  .os_service {
+    padding: 30px 0;
+  }
+  .service_1 h3 {
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+  .os_text {
+    display: inline-block;
+  }
+  .os_text i {
+  }
+  .os_h2 {
+    font-size: 28px;
+    margin-bottom: 32px;
+    text-align: center;
+    margin-top: 30px;
+  }
+  .os_text h3 {
+    font-size: 16px;
+    text-align: center;
+  }
+  .os_text i {
+    height: 55px;
+    width: 55px;
+    font-size: 25px;
+    margin: 0 15px 20px 120px;
+    text-align: center;
+    padding: 15px;
+  }
+  .os_text p {
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    text-align: center;
+  }
+  /* material part start */
+  .m_text h3 {
+    font-size: 15px;
+    margin-top: 30px;
+  }
+  .m_text p {
+    font-size: 28px;
+  }
+  /* offer part start */
+  .o_text h1 {
+    font-size: 22px;
+    margin-bottom: 24px;
+  }
+  .o_text p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    line-height: 26px;
+    word-spacing: 0px;
+    letter-spacing: 1px;
+  }
+  .o_text {
+    padding-bottom: 45px;
+    text-align: center;
+    padding-top: 40px;
+  }
+  .offer_img {
+    /* align-items: center;
+    text-align: center; */
+    margin-left: 130px;
+    margin-bottom: 20px;
+  }
+  .offer_text p {
+    font-size: 16px;
+    margin-bottom: 30px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+  }
+  .offer_text {
+    text-align: center;
+  }
+
+  .g_text {
+    margin-top: 35px;
+  }
+  .g_text h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .g_text p {
+    font-size: 16px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+  .n_item li a {
+    font-size: 13px;
+  }
+  .n_item {
+    padding: 18px;
+  }
+  .g_main {
+    padding-bottom: 60px;
+  }
+  .head_part {
+    margin-bottom: 50px;
+    margin-left: 11px;
+  }
+  .gallery_part {
+    padding-bottom: 0px;
+  }
+  .h_text p {
+    font-size: 16px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+  .h_text h1 {
+    font-size: 26px;
+    margin-bottom: 15px;
+  }
+  .head_part {
+    width: 100%;
+  }
+  .socail_icon i {
+    width: 45px;
+    padding: 13px;
+    font-size: 16px;
+  }
+  /* Testimonial start */
+  .Testimonial {
+    height: 820px;
+    width: 100%;
+    background-color: #f4f4f4;
+    padding: 50px 0;
+  }
+  .t_text {
+    padding-bottom: 30px;
+  }
+  .t_overlay {
+    width: 100%;
+    background-color: white;
+    overflow: scroll;
+  }
+  .t_text h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .t_text p {
+    font-size: 16px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+    margin-left: 10px;
+  }
+  .t_p2 {
+    word-spacing: 2px;
+    margin-left: 20px;
+  }
+  .t_l_ph {
+    margin-left: 20px;
+  }
+  .t_icon {
+    margin-left: 20px;
+  }
+  /* Testimonial end */
+  .h_text {
+    padding-bottom: 60px;
+  }
+  .f_card {
+    margin-bottom: 40px;
+    width: 100%;
+  }
+  .f_h2 {
+    font-size: 19px;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+  .m_last {
+    margin-bottom: 1rem !important;
+    margin-left: 10px;
+  }
+  .l_btn {
+    margin-left: 12px;
+  }
+  p {
+    /* ; */
+  }
+  .final_footer {
+    padding: 10px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    margin-top: 25px;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .menu ul li a {
+    padding: 4px 0px !important;
+    /* padding: 28px 0; */
+  }
+  .nav_t {
+    /* margin-left: 350px; */
+    /* padding: 0.4rem 0.8rem; */
+  }
+  .search {
+    border: 1px solid #dadada;
+    /* font-size: 22px; */
+  }
+  .si_text h1 {
+    font-size: 38px;
+    margin-bottom: 30px;
+    line-height: 55px;
+  }
+  .si_text p {
+    font-size: 15px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    margin-bottom: 50px;
+  }
+  .col_change_1 {
+    width: 60.333333%;
+  }
+  .btn_yellow {
+    height: 55px;
+    width: 220px;
+    font-size: 16px;
+  }
+  .cc_p {
+    left: -60px;
+  }
+  .cc_n {
+    right: -60px;
+  }
+  .carousel-control-prev {
+    left: -60px;
+  }
+  .slider {
+    padding: 180px 0 150px 0;
+  }
+  /* service start */
+  .s_text h1 {
+    font-size: 27px;
+    margin-bottom: 24px;
+  }
+  .s_text p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    line-height: 26px;
+    word-spacing: 0px;
+    letter-spacing: 1px;
+  }
+  .main_service {
+    padding-top: 30px;
+  }
+  .s_text {
+    padding-bottom: 35px;
+  }
+  .service_1 {
+    margin: 0 auto;
+    margin-bottom: 35px;
+  }
+  /* Our service start */
+  .os_service {
+    padding: 25px 0;
+  }
+  .service_1 h3 {
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+  .os_h2 {
+    font-size: 28px;
+    margin-bottom: 32px;
+    text-align: center;
+    margin-top: 30px;
+  }
+  .os_text h3 {
+    font-size: 16px;
+  }
+  .os_text i {
+    text-align: center;
+    height: 55px;
+    width: 55px;
+    font-size: 25px;
+    margin-right: 15px;
+  }
+  .os_text p {
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+  }
+  /* material part start */
+  .m_text h3 {
+    font-size: 15px;
+    margin-top: 30px;
+  }
+  .m_text p {
+    font-size: 28px;
+  }
+  /* offer part start */
+  .o_text h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .o_text p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    line-height: 26px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+  .o_text {
+    padding-bottom: 45px;
+    text-align: center;
+    padding-top: 40px;
+  }
+  .offer_img {
+    margin-left: 100px;
+    margin-bottom: 15px;
+  }
+  .offer_text p {
+    font-size: 16px;
+    margin-bottom: 30px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+  }
+  .offer_text {
+    text-align: center;
+  }
+  .os_text i {
+    padding: 15px;
+  }
+  .n_item {
+    margin-left: 85px;
+  }
+  .h_text p {
+    font-size: 16px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+  .h_text h1 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .g_main {
+    padding-bottom: 70px;
+  }
+  .g_text h1 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .g_text p {
+    font-size: 16px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+  .n_item {
+    padding: 15px;
+    margin-left: 30px;
+  }
+  .offer_text h2 {
+    font-size: 26px;
+  }
+  .head_part {
+    margin-left: 100px;
+    margin-bottom: 25px;
+  }
+  .gallery_part {
+    padding-bottom: 70px;
+  }
+  /* Testimonial start */
+  .Testimonial {
+    height: 820px;
+    width: 100%;
+    background-color: #f4f4f4;
+    padding: 50px 0;
+  }
+  .t_text {
+    padding-bottom: 30px;
+  }
+  .t_overlay {
+    width: 100%;
+    background-color: white;
+  }
+  .t_text h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .t_text p {
+    font-size: 16px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+    margin-left: 10px;
+  }
+  .t_p2 {
+    word-spacing: 2px;
+    margin-left: 20px;
+  }
+  .t_l_ph {
+    margin-left: 20px;
+  }
+  /* .t_img {
+    margin-left: 186px;
+  } */
+  .t_icon {
+    margin-left: 20px;
+  }
+
+  /* Testimonial end */
+  .f_card {
+    margin-left: 100px;
+    margin-bottom: 25px;
+  }
+  .f_h2 {
+    padding-top: 40px;
+    text-align: center;
+  }
+  .p_last {
+    padding: 10px !important;
+    margin-top: 0px;
+    margin-bottom: 25px;
+  }
+  .l_btn {
+    margin-left: 110px;
+  }
+  .final_footer {
+    margin-right: 30px;
+    margin-top: 25px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .menu ul li a {
+    padding: 4px 0px !important;
+    /* padding: 28px 0; */
+  }
+
+  .nav_t {
+    /* margin-left: 350px; */
+    /* padding: 0.25rem 0.75rem; */
+  }
+  .search {
+    border: 1px solid #dadada;
+    /* font-size: 22px; */
+  }
+  .si_text h1 {
+    font-size: 42px;
+    margin-bottom: 30px;
+    line-height: 60px;
+  }
+  .si_text p {
+    line-height: 30px;
+    letter-spacing: 0;
+    word-spacing: 0;
+    margin-bottom: 50px;
+  }
+  .col_change_1 {
+    width: 50.333333%;
+  }
+  .btn_yellow {
+    height: 55px;
+    width: 220px;
+    font-size: 16px;
+  }
+  .si_text {
+    /* margin-bottom: 30px; */
+  }
+  .s_text h1 {
+    font-size: 21px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .s_text p {
+    font-size: 16px;
+    margin-bottom: 15px;
+    line-height: 25px;
+    word-spacing: 0;
+    letter-spacing: 0;
+  }
+  .main_service {
+    padding-top: 80px;
+  }
+  .service_1 {
+    height: 300px;
+    width: 170px;
+  }
+  .service_1 p {
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  .service_1 h3 {
+    font-size: 15px;
+    margin-bottom: 13px;
+  }
+  .service_1 i {
+    margin-top: 40px;
+    padding: 11px;
+    width: 60px;
+    font-size: 30px;
+    margin-left: 54px;
+    margin-bottom: 25px;
+  }
+  .service_1 h3 {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .os_service {
+    padding: 70px 0;
+  }
+  .os_text i {
+    padding: 15px;
+    width: 55px;
+    font-size: 25px;
+  }
+  .os_text h3 {
+    font-size: 16px;
+  }
+  .os_text p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0;
+    word-spacing: 0;
+  }
+  .os_h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  .col-md-10 {
+    width: 86.333333%;
+  }
+  .os_img img {
+    height: 400px;
+  }
+  .offer_text p {
+    font-size: 16px;
+    margin-bottom: 40px;
+    letter-spacing: 0;
+    word-spacing: 0;
+  }
+  .o_text {
+    padding-bottom: 45px;
+    padding-top: 70px;
+  }
+  .o_text p {
+    font-size: 16px;
+    word-spacing: 0;
+    letter-spacing: 0;
+  }
+  .o_text h1 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 25px;
+  }
+  .m_text h3 {
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+    margin-top: 80px;
+  }
+  .m_text p {
+    font-size: 30px;
+  }
+  .g_text p {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    line-height: 30px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+  .n_item {
+    padding: 10px;
+  }
+  .head_part {
+    height: 350px;
+    width: 220px;
+  }
+  .head_img {
+    margin-top: 20px;
+  }
+  .socail_icon i {
+    margin-top: 20px;
+    width: 45px;
+    padding: 13px;
+    font-size: 16px;
+  }
+  .gallery_part {
+    padding-bottom: 45px;
+  }
+  /* Testimonial start */
+  .Testimonial {
+    height: 740px;
+    width: 100%;
+    background-color: #f4f4f4;
+    padding: 50px 0;
+  }
+  .t_text {
+    padding-bottom: 30px;
+  }
+  .t_overlay {
+    width: 100%;
+    background-color: white;
+    overflow: scroll;
+  }
+  .t_text h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .t_text p {
+    font-size: 17px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+  /* Testimonial end */
+  .h_text p {
+    font-size: 17px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+
+  .f_card {
+    margin-left: 200px;
+  }
+  .f_h2 {
+    text-align: center;
+  }
+  .l_btn {
+    margin-left: 210px;
+  }
+  .final_footer {
+    padding: 20px;
+    font-size: 14px;
+    margin-top: 25px;
+  }
+  .m_last {
+    margin-bottom: 0rem !important;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .menu ul li a {
+    padding: 0px 20px !important;
+  }
+  /* slider */
+  .si_text h1 {
+    font-size: 52px;
+    margin-bottom: 20px;
+    line-height: 70px;
+  }
+  .si_text p {
+    font-size: 16px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    margin-bottom: 45px;
+  }
+  .col_change_1 {
+    flex: 0 0 auto;
+    width: 44.333333%;
+  }
+  .s_text {
+    padding-bottom: 50px;
+  }
+  .s_text h1 {
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 30px;
+  }
+  .s_text p {
+    font-size: 15px;
+    line-height: 28px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+  .service_1 {
+    height: 320px;
+    width: 220px;
+  }
+  .service_1 p {
+    line-height: 28px;
+    letter-spacing: 0px;
+    word-spacing: 1px;
+  }
+  .service_1 h3 {
+    font-size: 17px;
+    margin-bottom: 15px;
+  }
+  .service_1 i {
+    margin-top: 50px;
+    padding: 15px;
+    width: 66px;
+    font-size: 30px;
+    margin-left: 75px;
+    margin-bottom: 35px;
+  }
+  .o_text p {
+    font-size: 16px;
+    margin-bottom: 12px;
+    word-spacing: 0;
+    letter-spacing: 0;
+  }
+  .os_img img {
+    height: 490px;
+  }
+  .offer_text p {
+    font-size: 15px;
+    margin-bottom: 55px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  .g_text {
+    margin-top: 15px;
+  }
+  .g_main {
+    padding-bottom: 60px;
+  }
+  .head_part {
+    width: 300px;
+  }
+  .h_text {
+    padding-bottom: 60px;
+  }
+  .gallery_part {
+    padding-bottom: 60px;
+  }
+  /* Testimonial start */
+  .Testimonial {
+    height: 820px;
+    width: 100%;
+    background-color: #f4f4f4;
+    padding: 50px 0;
+  }
+  .t_text {
+    padding-bottom: 30px;
+  }
+  .t_overlay {
+    width: 100%;
+    background-color: white;
+    overflow: scroll;
+  }
+  .t_text h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .t_text p {
+    font-size: 16px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+
+  /* Testimonial end */
+
+  .f_h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-left: 13px;
+  }
+  .final_footer {
+    padding: 14px;
+    font-size: 15px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    margin-top: 25px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .col_change_1 {
+    flex: 0 0 auto;
+    width: 42.333333%;
+  }
+  /* .si_text h1 {
+    font-size: 58px;
+    line-height: 75px;
+  }
+
+  .si_text p {
+    line-height: 30px;
+    letter-spacing: 0px;
+    margin-bottom: 50px;
+  } */
+  .n_item li a {
+    font-size: 12px;
+  }
+  .g_text p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+  .h_text p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+  .final_footer {
+    padding: 50px;
+    font-size: 15px;
+    letter-spacing: 0px;
+  }
+}
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+}
